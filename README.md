@@ -2,7 +2,7 @@
 Wilson Key Computer Technology
 # WKCTECH Digital Infrastructure
 
-This repository hosts the public-facing site for **WKCTECH**, managed by Kathryn Elizabeth Wilson. 
+This repository hosts the public-facing site for **WKCTECH**, managed by Kathryn E. Wilson. 
 
 ## 🌐 Site Overview
 - **URL:** [https://wkctech.com](https://wkctech.com)
