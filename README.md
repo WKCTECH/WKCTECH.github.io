@@ -23,6 +23,8 @@ Changes pushed to the `main` branch are automatically deployed via GitHub Action
 - `index.html`: Main landing page with M365 embeds.
 - `favicon.ico`: Custom branding asset.
 - `CNAME`: Domain configuration for wkctech.com.
+- `privacy-policy.html`: Site privacy policy
+- `terms-and-conditions.html`: Site terms and conditions
 
 ---
 *Managed by WKCTECH | Cybersecurity & Collaboration Systems*
